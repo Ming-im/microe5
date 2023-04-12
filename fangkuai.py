@@ -58,3 +58,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+# 这是一个俄罗斯方块的Python程序
